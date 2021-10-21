@@ -1,0 +1,78 @@
+2021-10-18 21:10:690 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-18 21:10:245 INFO  BrowserSelector :21 - Launching Chrome Browser
+2021-10-18 21:10:942 INFO  BrowserSelector :21 - Launching Chrome Browser
+2021-10-18 23:10:878 INFO  BrowserSelector :21 - Launching Chrome Browser
+2021-10-20 11:10:40 INFO  BrowserSelector :21 - Launching Chrome Browser
+2021-10-20 11:10:153 INFO  BrowserSelector :21 - Launching Chrome Browser
+2021-10-20 12:10:983 INFO  BrowserSelector :21 - Launching Chrome Browser
+2021-10-20 12:10:101 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 12:10:309 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (089c910b-2478-4f52-b8fe-8d4ce4e36233)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 12:10:722 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (089c910b-2478-4f52-b8fe-8d4ce4e36233)] -> xpath: //input[@id='email']]
+2021-10-20 12:10:559 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (089c910b-2478-4f52-b8fe-8d4ce4e36233)] -> xpath: //input[@id='password']]
+2021-10-20 12:10:806 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (089c910b-2478-4f52-b8fe-8d4ce4e36233)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 12:10:213 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 12:10:890 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (af87d3e3-8c83-47ab-9da7-ff3909aa9439)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 12:10:138 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (af87d3e3-8c83-47ab-9da7-ff3909aa9439)] -> xpath: //input[@id='email']]
+2021-10-20 12:10:206 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (af87d3e3-8c83-47ab-9da7-ff3909aa9439)] -> xpath: //input[@id='password']]
+2021-10-20 12:10:306 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (af87d3e3-8c83-47ab-9da7-ff3909aa9439)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 12:10:02 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 12:10:694 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (b37a528a-6194-4ca7-88f9-53e4793637cf)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 12:10:89 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (b37a528a-6194-4ca7-88f9-53e4793637cf)] -> xpath: //input[@id='email']]
+2021-10-20 12:10:288 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (b37a528a-6194-4ca7-88f9-53e4793637cf)] -> xpath: //input[@id='password']]
+2021-10-20 12:10:343 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (b37a528a-6194-4ca7-88f9-53e4793637cf)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 12:10:241 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 12:10:801 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (54768cdb-361e-4b0b-a941-c9f8c1744ec9)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 12:10:843 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (54768cdb-361e-4b0b-a941-c9f8c1744ec9)] -> xpath: //input[@id='email']]
+2021-10-20 12:10:13 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (54768cdb-361e-4b0b-a941-c9f8c1744ec9)] -> xpath: //input[@id='password']]
+2021-10-20 12:10:50 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (54768cdb-361e-4b0b-a941-c9f8c1744ec9)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 12:10:124 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 12:10:768 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (b6646fba-c1f9-40c3-b56f-f0ddc2aeea28)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 12:10:157 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (b6646fba-c1f9-40c3-b56f-f0ddc2aeea28)] -> xpath: //input[@id='email']]
+2021-10-20 12:10:249 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (b6646fba-c1f9-40c3-b56f-f0ddc2aeea28)] -> xpath: //input[@id='password']]
+2021-10-20 12:10:273 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (b6646fba-c1f9-40c3-b56f-f0ddc2aeea28)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:81 INFO  BrowserSelector :30 - Launching IE Browser
+2021-10-20 14:10:324 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:339 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (c53c2a1b-6d15-48c2-ab53-232406d384b1)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:541 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (c53c2a1b-6d15-48c2-ab53-232406d384b1)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:584 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (c53c2a1b-6d15-48c2-ab53-232406d384b1)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:155 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (c53c2a1b-6d15-48c2-ab53-232406d384b1)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:377 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:463 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (1ed4c8ea-c2d2-4f5b-bdff-48f884dc7cbf)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:38 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (1ed4c8ea-c2d2-4f5b-bdff-48f884dc7cbf)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:748 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (1ed4c8ea-c2d2-4f5b-bdff-48f884dc7cbf)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:848 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (1ed4c8ea-c2d2-4f5b-bdff-48f884dc7cbf)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:698 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:643 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (6e524460-1285-4115-964e-cb59ea9e8f6a)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:198 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (6e524460-1285-4115-964e-cb59ea9e8f6a)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:294 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (6e524460-1285-4115-964e-cb59ea9e8f6a)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:369 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (6e524460-1285-4115-964e-cb59ea9e8f6a)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:533 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:824 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (856e7e58-bc24-4a84-82b3-b8567275a3df)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:273 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (856e7e58-bc24-4a84-82b3-b8567275a3df)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:411 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (856e7e58-bc24-4a84-82b3-b8567275a3df)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:539 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (856e7e58-bc24-4a84-82b3-b8567275a3df)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:963 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:593 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (30ad3ef2-237c-47fb-a42a-c55338f414c0)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:824 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (30ad3ef2-237c-47fb-a42a-c55338f414c0)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:926 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (30ad3ef2-237c-47fb-a42a-c55338f414c0)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:955 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (30ad3ef2-237c-47fb-a42a-c55338f414c0)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:562 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:950 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (59e83e33-9ea3-4f22-99af-9e23e7a7efdb)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:701 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (59e83e33-9ea3-4f22-99af-9e23e7a7efdb)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:799 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (59e83e33-9ea3-4f22-99af-9e23e7a7efdb)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:824 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (59e83e33-9ea3-4f22-99af-9e23e7a7efdb)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 14:10:493 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 14:10:789 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (6a4aaf87-fd0c-4521-980b-a20841143f30)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 14:10:939 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (6a4aaf87-fd0c-4521-980b-a20841143f30)] -> xpath: //input[@id='email']]
+2021-10-20 14:10:20 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (6a4aaf87-fd0c-4521-980b-a20841143f30)] -> xpath: //input[@id='password']]
+2021-10-20 14:10:52 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (6a4aaf87-fd0c-4521-980b-a20841143f30)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-20 18:10:41 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-20 18:10:781 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (cfa494aa-e5a3-4755-a8b8-6099bcf6bf13)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-20 18:10:826 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (cfa494aa-e5a3-4755-a8b8-6099bcf6bf13)] -> xpath: //input[@id='email']]
+2021-10-20 18:10:201 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (cfa494aa-e5a3-4755-a8b8-6099bcf6bf13)] -> xpath: //input[@id='password']]
+2021-10-20 18:10:263 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (cfa494aa-e5a3-4755-a8b8-6099bcf6bf13)] -> xpath: //button[contains(text(),'Login')]]
+2021-10-21 00:10:203 INFO  BrowserSelector :26 - Launching Firefox Browser
+2021-10-21 00:10:607 INFO  LoginPage :43 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (a61c28cc-7490-4d1a-b4f7-2298647d656f)] -> xpath: //a[contains(text(),'Login')]]
+2021-10-21 00:10:835 INFO  LoginPage :50 - Set Email :lameertha11@gmail.comto email field :[[FirefoxDriver: firefox on WINDOWS (a61c28cc-7490-4d1a-b4f7-2298647d656f)] -> xpath: //input[@id='email']]
+2021-10-21 00:10:542 INFO  LoginPage :57 - Enter the password:Lamee1988To Password :[[FirefoxDriver: firefox on WINDOWS (a61c28cc-7490-4d1a-b4f7-2298647d656f)] -> xpath: //input[@id='password']]
+2021-10-21 00:10:534 INFO  LoginPage :62 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (a61c28cc-7490-4d1a-b4f7-2298647d656f)] -> xpath: //button[contains(text(),'Login')]]

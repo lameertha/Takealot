@@ -1,0 +1,7 @@
+com\takealot\pages\HomePage.class
+com\takealot\pages\LoginPage.class
+com\takealot\basepage\BasePage.class
+com\takealot\pages\RegisterPage.class
+com\takealot\browserSelector\BrowserSelector.class
+com\takealot\utility\Utility.class
+com\takealot\loadproperty\LoadProperty.class
